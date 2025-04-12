@@ -33,6 +33,10 @@ Créez un projet ExpressJS complet avec la structure de répertoires recommandé
 
 ![image](https://github.com/user-attachments/assets/4a42d174-45ba-4f81-9693-6a45541a3fa0)
 
+# 📘 Création d’un projet ExpressJS structuré avec gestion des routes et fichiers statiques
+
+![image](https://github.com/user-attachments/assets/ff3144c4-ee2d-43d1-a8ea-20f53f63a790)
+
 
 
 
