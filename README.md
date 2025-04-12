@@ -39,6 +39,9 @@ Créez un projet ExpressJS complet avec la structure de répertoires recommandé
 
 
 # II - Routage avec ExpressJS
+## Exercice 1: Créer un ensemble de routes pour une API de gestion de tâches
+
+
 
 
 
