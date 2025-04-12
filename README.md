@@ -21,8 +21,13 @@ La page située à la route "/date" affiche la date et l'heure actuelles
 
 
 
-## Exercice 2: Configuration d'un projet ExpressJS
+# Exercice 2: Configuration d'un projet ExpressJS
 Créez un projet ExpressJS complet avec la structure de répertoires recommandée et configurez-le pour servir des fichiers statiques et gérer différentes routes.
+
+ ### Démarrage et arrêt du serveur:
+ ``` bash command 
+ node app.js
+ ```
 
 ## Organisation de la structure des dossiers dans un projet ExpressJS
 
